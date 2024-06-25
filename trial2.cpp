@@ -11,7 +11,7 @@ int main()
     w = w/2;
     if (w%2 ==0)
         printf("YES");
-    else
+    els
         printf("NO");
      ;
 }
