@@ -6,7 +6,7 @@
 
 int main()
 {
-    int w
+    int w;
     scanf("%i",&w);
     w = w/2;
     if (w%2 ==0)
